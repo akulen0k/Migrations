@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlMigrations", "SqlMigrations\SqlMigrations.csproj", "{E5000A40-A9CD-4B9B-BB0C-53A67970269C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5000A40-A9CD-4B9B-BB0C-53A67970269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5000A40-A9CD-4B9B-BB0C-53A67970269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5000A40-A9CD-4B9B-BB0C-53A67970269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5000A40-A9CD-4B9B-BB0C-53A67970269C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019D5B5D-91B4-40A2-A382-F476E7C7FF3E}
+	EndGlobalSection
+EndGlobal
